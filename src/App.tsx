@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { motion } from 'motion/react';
 import { Globe } from 'lucide-react';
 import DeviceFrame from './components/DeviceFrame';
-import siteSnapImage from '../assets/Sitesnap-image.png';
+import siteSnapImage from '../assets/sitesnap-image.png';
 
 const SCENE_BASE_WIDTH = 1500;
 const SCENE_BASE_HEIGHT = 1000;
