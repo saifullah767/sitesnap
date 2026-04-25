@@ -1,0 +1,24 @@
+<svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Monitor (Back) -->
+  <rect x="10" y="6" width="44" height="30" rx="3" stroke="currentColor" stroke-width="3"></rect>
+  <path d="M26 36L24 46H40L38 36" fill="currentColor" opacity="0.1"></path>
+  <path d="M26 36L24 46H40L38 36" stroke="currentColor" stroke-width="3" stroke-linejoin="round"></path>
+  <path d="M18 46H46" stroke="currentColor" stroke-width="3" stroke-linecap="round"></path>
+  
+  <!-- Dev Touch (Code Icon) -->
+  <g stroke="#6366F1" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M26 14L22 18L26 22"></path>
+    <path d="M34 24L30 12"></path>
+    <path d="M38 14L42 18L38 22"></path>
+  </g>
+  
+  <!-- Laptop (Front Left) -->
+  <rect x="2" y="30" width="28" height="18" rx="2" fill="white" stroke="currentColor" stroke-width="3"></rect>
+  <path d="M0 48H32" stroke="currentColor" stroke-width="4" stroke-linecap="round"></path>
+  <path d="M6 34H26" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"></path>
+  
+  <!-- Mobile (Front Right) -->
+  <rect x="42" y="22" width="16" height="28" rx="3" fill="white" stroke="currentColor" stroke-width="3"></rect>
+  <path d="M47 26H53" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+  <circle cx="50" cy="45" r="1.5" fill="currentColor"></circle>
+</svg>
