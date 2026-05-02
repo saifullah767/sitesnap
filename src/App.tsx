@@ -205,10 +205,10 @@ export default function App() {
               Contact
             </a>
           </span>
-          <div className="flex items-center gap-3">
+          {/* <div className="flex items-center gap-3">
             <div className="w-1.5 h-10 bg-slate-900 rounded-full" />
             <span className="text-3xl font-black text-slate-900/5 select-none uppercase tracking-tighter leading-none">REALTIME<br/>MOCKUP</span>
-          </div>
+          </div> */}
         </div>
       </footer>
     </div>
